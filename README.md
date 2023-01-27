@@ -18,6 +18,9 @@ I have great ease and agility in building relationships, I can get along with pe
 
 ## 👨‍💻 Professional experience:
 
+<p>Sewing Studio Jéssica del Fischer - Entrepreneur -
+Porto Alegre, RS/BR </p>
+
 <p>Meridien Travel Club -
 Commercial Coordinator
 Inside Sales - Digital Sales
