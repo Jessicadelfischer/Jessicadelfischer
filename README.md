@@ -5,7 +5,7 @@ es (21 sloc) 2.4 KB
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align= "right" alt="Computador iuriCode">
 
 <p align="esquerda">
-I am a Edition student of Growdev's Starter Full Stack Web Developer Program.
+I am a student of Growdev's Starter Full Stack Web Developer Program.
 
 I have great ease and agility in building relationships, I can get along with people of different types, gaining trust through honesty and loyalty. Within the professional environment, I like to share my knowledge and help my colleagues, always seeking to have a motivating and friendly work environment.
 
